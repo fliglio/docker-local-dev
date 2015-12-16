@@ -1,2 +1,2 @@
 build:
-	docker build -t fliglio/local-dev .
+	docker build -t fliglio/local-dev:borg .
